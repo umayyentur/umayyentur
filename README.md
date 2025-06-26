@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umayyentur&label=Profile%20views&color=0e75b6&style=flat" alt="umayyentur" /> </p>
 
-- 🔭 **Currently working on deep learning (LLM, YOLO), NLP pipelines, and time series forecasting **
+- 🔭 **Currently working on deep learning (LLM, YOLO), NLP pipelines, and time series forecasting**
 
 - 🌱  **Learning AI agents, dashboard development, and advanced model orchestration**
 
