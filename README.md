@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umayyentur&label=Profile%20views&color=0e75b6&style=flat" alt="umayyentur" /> </p>
 
-- 🔭 Currently working on deep learning (LLM, YOLO), NLP pipelines, and time series forecasting **
+- 🔭 **Currently working on deep learning (LLM, YOLO), NLP pipelines, and time series forecasting **
 
-- 🌱  Learning AI agents, dashboard development, and advanced model orchestration**
+- 🌱  **Learning AI agents, dashboard development, and advanced model orchestration**
 
-- 📫 How to reach me **umay.yentur@gmail.com**
+- 📫 **How to reach me **umay.yentur@gmail.com**
 
-- 🛠 I build real-world ML systems with Python, SQL, and deployable APIs**
+- 🛠 **I build real-world ML systems with Python, SQL, and deployable APIs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
