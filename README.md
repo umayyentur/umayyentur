@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umayyentur&label=Profile%20views&color=0e75b6&style=flat" alt="umayyentur" /> </p>
 
-- 🔭 I’m currently working on **deep learning,Text Mining**
+- 🔭 Currently working on deep learning (LLM, YOLO), NLP pipelines, and time series forecasting **
 
-- 🌱 I’m currently learning **Sql, Web scraping, artificial neural network, genetic algorithm**
+- 🌱  Learning AI agents, dashboard development, and advanced model orchestration**
 
 - 📫 How to reach me **umay.yentur@gmail.com**
 
-- ⚡ Fun fact **I love outdoor activities 🌅**
+- 🛠 I build real-world ML systems with Python, SQL, and deployable APIs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
