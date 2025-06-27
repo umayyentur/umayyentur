@@ -8,7 +8,7 @@
 
 - 🌱  **Learning AI agents, dashboard development, and advanced model orchestration**
 
-- 📫 **How to reach me **umay.yentur@gmail.com**
+- 📫 How to reach me **umay.yentur@gmail.com**
 
 - 🛠 **I build real-world ML systems with Python, SQL, and deployable APIs**
 
